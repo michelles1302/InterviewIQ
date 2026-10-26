@@ -1,0 +1,290 @@
+[
+  {
+    "id": "beh_01",
+    "category": "Behavioral",
+    "difficulty": "Medium",
+    "question": "Tell me about a time you faced a difficult challenge at work or in a project.",
+    "keywords": ["challenge", "problem", "action", "resolution", "impact", "learned", "overcome", "strategy"],
+    "structure_type": "behavioral"
+  },
+  {
+    "id": "beh_02",
+    "category": "Behavioral",
+    "difficulty": "Medium",
+    "question": "Tell me about a time you made a mistake and how you handled it.",
+    "keywords": ["mistake", "error", "took ownership", "corrected", "root cause", "prevention", "learned", "outcome"],
+    "structure_type": "behavioral"
+  },
+  {
+    "id": "beh_03",
+    "category": "Behavioral",
+    "difficulty": "Hard",
+    "question": "Describe a situation where you had to work under intense pressure to meet a deadline.",
+    "keywords": ["deadline", "pressure", "prioritized", "time management", "delivered", "trade-offs", "result", "focus"],
+    "structure_type": "behavioral"
+  },
+  {
+    "id": "beh_04",
+    "category": "Behavioral",
+    "difficulty": "Hard",
+    "question": "Give an example of a time you had to adapt quickly to a major change in requirements or project direction.",
+    "keywords": ["pivot", "change", "adapted", "flexibility", "re-prioritized", "stakeholders", "communication", "success"],
+    "structure_type": "behavioral"
+  },
+  {
+    "id": "beh_05",
+    "category": "Behavioral",
+    "difficulty": "Easy",
+    "question": "Tell me about a time when you received constructive feedback and how you acted on it.",
+    "keywords": ["feedback", "critique", "accepted", "improved", "implemented", "growth", "mentor", "result"],
+    "structure_type": "behavioral"
+  },
+  {
+    "id": "beh_06",
+    "category": "Behavioral",
+    "difficulty": "Medium",
+    "question": "Describe a scenario where you convinced stakeholders or teammates to adopt your proposal.",
+    "keywords": ["persuaded", "stakeholders", "data", "evidence", "compromise", "alignment", "adoption", "benefit"],
+    "structure_type": "behavioral"
+  },
+  {
+    "id": "tech_01",
+    "category": "Technical",
+    "difficulty": "Medium",
+    "question": "Explain the difference between supervised and unsupervised machine learning.",
+    "keywords": ["labeled data", "unlabeled data", "classification", "regression", "clustering", "target variable", "training", "patterns"],
+    "structure_type": "technical"
+  },
+  {
+    "id": "tech_02",
+    "category": "Technical",
+    "difficulty": "Easy",
+    "question": "What is overfitting in machine learning models, and how can you prevent it?",
+    "keywords": ["overfitting", "training set", "generalization", "regularization", "cross-validation", "dropout", "early stopping", "dataset size"],
+    "structure_type": "technical"
+  },
+  {
+    "id": "tech_03",
+    "category": "Technical",
+    "difficulty": "Medium",
+    "question": "What is a REST API and what are the primary HTTP methods used in RESTful architecture?",
+    "keywords": ["REST API", "HTTP", "GET", "POST", "PUT", "DELETE", "stateless", "client-server", "endpoint", "JSON"],
+    "structure_type": "technical"
+  },
+  {
+    "id": "tech_04",
+    "category": "Technical",
+    "difficulty": "Medium",
+    "question": "What is the difference between relational (SQL) and non-relational (NoSQL) databases?",
+    "keywords": ["SQL", "NoSQL", "relational", "schema", "ACID", "scaling", "tables", "documents", "joins", "key-value"],
+    "structure_type": "technical"
+  },
+  {
+    "id": "tech_05",
+    "category": "Technical",
+    "difficulty": "Hard",
+    "question": "Explain the concept of microservices architecture and compare it with monolithic architecture.",
+    "keywords": ["microservices", "monolith", "decoupled", "scalability", "deployment", "services", "API gateway", "maintenance", "trade-offs"],
+    "structure_type": "technical"
+  },
+  {
+    "id": "tech_06",
+    "category": "Technical",
+    "difficulty": "Hard",
+    "question": "How do you optimize a slow database query in a production environment?",
+    "keywords": ["indexes", "EXPLAIN plan", "query optimization", "database", "joins", "caching", "execution time", "bottleneck"],
+    "structure_type": "technical"
+  },
+  {
+    "id": "proj_01",
+    "category": "Project Experience",
+    "difficulty": "Medium",
+    "question": "Tell me about an impactful software or technical project you are most proud of.",
+    "keywords": ["project", "architecture", "impact", "role", "tech stack", "challenge", "metrics", "success"],
+    "structure_type": "project"
+  },
+  {
+    "id": "proj_02",
+    "category": "Project Experience",
+    "difficulty": "Hard",
+    "question": "What was the most difficult technical roadblock you encountered in a recent project, and how did you resolve it?",
+    "keywords": ["roadblock", "technical issue", "debugging", "root cause", "workaround", "solution", "performance", "testing"],
+    "structure_type": "project"
+  },
+  {
+    "id": "proj_03",
+    "category": "Project Experience",
+    "difficulty": "Medium",
+    "question": "How did you measure and evaluate the success and performance of your recent project?",
+    "keywords": ["metrics", "KPIs", "benchmarks", "latency", "user feedback", "conversion", "uptime", "accuracy"],
+    "structure_type": "project"
+  },
+  {
+    "id": "proj_04",
+    "category": "Project Experience",
+    "difficulty": "Medium",
+    "question": "Describe your specific role and contributions in a collaborative team project.",
+    "keywords": ["role", "contribution", "responsibilities", "collaboration", "code review", "delivery", "leadership", "integration"],
+    "structure_type": "project"
+  },
+  {
+    "id": "proj_05",
+    "category": "Project Experience",
+    "difficulty": "Hard",
+    "question": "Tell me about a time you had to refactor a legacy codebase or system architecture.",
+    "keywords": ["legacy code", "refactoring", "technical debt", "tests", "backward compatibility", "modularization", "performance"],
+    "structure_type": "project"
+  },
+  {
+    "id": "proj_06",
+    "category": "Project Experience",
+    "difficulty": "Easy",
+    "question": "How do you ensure high code quality and test coverage in your projects?",
+    "keywords": ["unit testing", "CI/CD", "code review", "linting", "coverage", "integration tests", "best practices", "documentation"],
+    "structure_type": "project"
+  },
+  {
+    "id": "lead_01",
+    "category": "Leadership",
+    "difficulty": "Hard",
+    "question": "Tell me about a time you led a team through a complex project or critical incident.",
+    "keywords": ["leadership", "vision", "delegation", "guidance", "mentorship", "execution", "alignment", "outcome"],
+    "structure_type": "leadership"
+  },
+  {
+    "id": "lead_02",
+    "category": "Leadership",
+    "difficulty": "Medium",
+    "question": "How do you handle technical or interpersonal disagreements within your team?",
+    "keywords": ["conflict", "disagreement", "active listening", "compromise", "data-driven", "consensus", "respect", "resolution"],
+    "structure_type": "leadership"
+  },
+  {
+    "id": "lead_03",
+    "category": "Leadership",
+    "difficulty": "Medium",
+    "question": "How do you mentor junior developers or team members to help them grow?",
+    "keywords": ["mentorship", "pair programming", "feedback", "growth", "knowledge sharing", "code reviews", "empowerment", "learning"],
+    "structure_type": "leadership"
+  },
+  {
+    "id": "lead_04",
+    "category": "Leadership",
+    "difficulty": "Hard",
+    "question": "How do you balance technical debt with business feature delivery when leading a team?",
+    "keywords": ["technical debt", "prioritization", "business goals", "refactoring", "roadmap", "trade-offs", "stakeholders"],
+    "structure_type": "leadership"
+  },
+  {
+    "id": "lead_05",
+    "category": "Leadership",
+    "difficulty": "Easy",
+    "question": "How do you foster an inclusive and high-performing team culture?",
+    "keywords": ["culture", "psychological safety", "recognition", "collaboration", "open communication", "diversity", "trust"],
+    "structure_type": "leadership"
+  },
+  {
+    "id": "lead_06",
+    "category": "Leadership",
+    "difficulty": "Medium",
+    "question": "Describe a time when you had to manage underperforming team members or project delays.",
+    "keywords": ["performance", "expectations", "clear goals", "1-on-1", "support", "accountability", "timeline", "improvement"],
+    "structure_type": "leadership"
+  },
+  {
+    "id": "hr_01",
+    "category": "HR",
+    "difficulty": "Easy",
+    "question": "Why do you want to work for our company, and what attracts you to this role?",
+    "keywords": ["company mission", "values", "role fit", "skills", "passion", "growth", "culture", "industry impact"],
+    "structure_type": "hr"
+  },
+  {
+    "id": "hr_02",
+    "category": "HR",
+    "difficulty": "Medium",
+    "question": "Where do you see yourself professionally in five years?",
+    "keywords": ["career goals", "long-term vision", "skill development", "leadership", "mastery", "contributions", "growth"],
+    "structure_type": "hr"
+  },
+  {
+    "id": "hr_03",
+    "category": "HR",
+    "difficulty": "Medium",
+    "question": "What is your greatest professional strength and how has it helped you succeed?",
+    "keywords": ["strength", "example", "impact", "application", "value", "consistency", "problem solving", "adaptability"],
+    "structure_type": "hr"
+  },
+  {
+    "id": "hr_04",
+    "category": "HR",
+    "difficulty": "Medium",
+    "question": "What is an area of growth or weakness you are actively working to improve?",
+    "keywords": ["weakness", "self-awareness", "action plan", "progress", "learning", "improvement", "growth mindset"],
+    "structure_type": "hr"
+  },
+  {
+    "id": "hr_05",
+    "category": "HR",
+    "difficulty": "Easy",
+    "question": "Why are you looking to leave your current role or make a career transition?",
+    "keywords": ["new opportunities", "growth", "challenge", "alignment", "positive transition", "skills", "career progression"],
+    "structure_type": "hr"
+  },
+  {
+    "id": "hr_06",
+    "category": "HR",
+    "difficulty": "Hard",
+    "question": "What work environment or management style brings out your best performance?",
+    "keywords": ["autonomy", "collaboration", "transparency", "feedback", "work style", "communication", "productivity"],
+    "structure_type": "hr"
+  },
+  {
+    "id": "prob_01",
+    "category": "Problem Solving",
+    "difficulty": "Hard",
+    "question": "Describe a complex technical problem you solved where the cause was initially unknown.",
+    "keywords": ["investigation", "hypothesis", "isolation", "debugging", "root cause", "resolution", "testing", "monitoring"],
+    "structure_type": "problem_solving"
+  },
+  {
+    "id": "prob_02",
+    "category": "Problem Solving",
+    "difficulty": "Medium",
+    "question": "How do you systematically approach debugging an unfamiliar codebase or system failure?",
+    "keywords": ["reproduce", "logs", "step-by-step", "isolation", "documentation", "root cause", "verification", "prevention"],
+    "structure_type": "problem_solving"
+  },
+  {
+    "id": "prob_03",
+    "category": "Problem Solving",
+    "difficulty": "Hard",
+    "question": "How do you prioritize competing high-priority bugs or incidents in production?",
+    "keywords": ["severity", "business impact", "triage", "communication", "quick fix", "permanent fix", "root cause", "SLA"],
+    "structure_type": "problem_solving"
+  },
+  {
+    "id": "prob_04",
+    "category": "Problem Solving",
+    "difficulty": "Medium",
+    "question": "Tell me about a time you solved a problem with a creative or non-traditional approach.",
+    "keywords": ["innovation", "alternative", "out-of-the-box", "constraint", "resourcefulness", "solution", "efficiency"],
+    "structure_type": "problem_solving"
+  },
+  {
+    "id": "prob_05",
+    "category": "Problem Solving",
+    "difficulty": "Medium",
+    "question": "How do you make critical decisions when you have incomplete or ambiguous information?",
+    "keywords": ["ambiguity", "assumptions", "risk management", "iterative approach", "data gathered", "decisiveness", "learning"],
+    "structure_type": "problem_solving"
+  },
+  {
+    "id": "prob_06",
+    "category": "Problem Solving",
+    "difficulty": "Hard",
+    "question": "Describe a situation where a solution you implemented failed, and how you responded.",
+    "keywords": ["failure", "post-mortem", "quick recovery", "reversion", "root cause analysis", "prevention", "resilience"],
+    "structure_type": "problem_solving"
+  }
+]

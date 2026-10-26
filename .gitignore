@@ -1,0 +1,41 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated reports and output
+reports/
+generated_reports/
+output/
+*.log
+
+# Testing and cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
